@@ -7,4 +7,3 @@ print (a - b)
 print (a * b)
 matsuzoe
 test
-aaaa
